@@ -135,5 +135,6 @@
             </div>
         </div>
         <a href="vista1">vista1</a>
+        <a href="vista2">vista2</a>
     </body>
 </html>
