@@ -7,5 +7,7 @@
 </head>
 <body>
     <H1>HOLA MUNDO</H1>
+    <button type="button" class="btn btn-primary"><a href="/">REGRESAR</a></button>
+
 </body>
 </html>
