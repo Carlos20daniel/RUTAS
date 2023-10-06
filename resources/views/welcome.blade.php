@@ -13,8 +13,7 @@
         </style>
     </head>
     <body>
-        <h1><center>BIENBENIDO A SENATI</center></h1>
-        <img src="img.png" alt=""><br>
+        <h1><center>PAGINAS DE CARLOS</center></h1>
         <button type="button" class="btn btn-primary"><a href="vista1">vista1</a></button>
         <button type="button" class="btn btn-primary"><a href="vista2">vista2</a></button>
         <button type="button" class="btn btn-primary"><a href="vista3">vista3</a></button>
