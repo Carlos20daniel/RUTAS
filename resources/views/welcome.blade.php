@@ -6,9 +6,14 @@
         <title>Laravel</title>
         <link rel="preconnect" href="https://fonts.bunny.net">
         <link href="https://fonts.bunny.net/css?family=figtree:400,600&display=swap" rel="stylesheet" />
+        <link rel="stylesheet" href="text.css">
         <style>
             body{
                 background-color: aqua;
+            }
+            .img {
+                width: 300px;
+                height: 300px;
             }
         </style>
     </head>
